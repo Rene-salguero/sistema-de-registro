@@ -10,3 +10,5 @@
 para ejecutar el sistema , debes poner: 
 
 ````npm install react````
+
+Sisteme de  Resgistro 2
